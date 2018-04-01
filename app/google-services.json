@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830416143247",
+    "firebase_url": "https://modul6-b7375.firebaseio.com",
+    "project_id": "modul6-b7375",
+    "storage_bucket": "modul6-b7375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830416143247:android:4cbe97dae4850e5b",
+        "android_client_info": {
+          "package_name": "com.example.android.labbaikatiovani_1202152330_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830416143247-8637163e2c4fe8mteuf383qg1kjpt7ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.labbaikatiovani_1202152330_modul6",
+            "certificate_hash": "e111252c796aa637777abac406e3cc595a1ba122"
+          }
+        },
+        {
+          "client_id": "830416143247-cqtdlrl2tdppn5kquasae43kk5jksmqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIsSEgkQ1h7v2YXfE_aF7rj1vAfcwmqjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830416143247-cqtdlrl2tdppn5kquasae43kk5jksmqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
